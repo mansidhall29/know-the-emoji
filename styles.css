@@ -1,0 +1,39 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    background-color: seashell;
+  }
+  .bg {
+    padding: 1rem 1rem;
+    background-color: #fbbf24;
+    color: black;
+  }
+  .input {
+    padding: 1rem 1rem;
+    font-size: 20px;
+  }
+  
+  .setEmo {
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    display: inline;
+    padding: 0rem 0.5rem;
+  }
+  
+  .footer {
+    background-color: #fbbf24;
+    padding: 2rem 1rem;
+    margin-top: 12rem;
+    text-align: center;
+    color: white;
+    border-top-left-radius: 1rem;
+  }
+  
+  .footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+  }
+  
